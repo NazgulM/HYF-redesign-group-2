@@ -56,7 +56,6 @@
     <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Basic-layout/development-strategy.md at main · bermarte/Basic-layout" /><meta name="twitter:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
     <meta property="og:image" content="https://repository-images.githubusercontent.com/479085454/707f3b2f-f677-42f3-a302-0ab89de921a7" /><meta property="og:image:alt" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Basic-layout/development-strategy.md at main · bermarte/Basic-layout" /><meta property="og:url" content="https://github.com/bermarte/Basic-layout" /><meta property="og:description" content="basic layout. Contribute to bermarte/Basic-layout development by creating an account on GitHub." />
 
-
   <link rel="assets" href="https://github.githubassets.com/">
     <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78535490/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODUzNTQ5MCwicyI6ODQzODMxNDA1LCJjIjoxNTE3NzU4OTc5LCJ0IjoxNjQ5NDMwMzg5fQ==--dd3a6444b953068821c29a8b410da3b4d62e38495e20f94ff84e3dcc9d10979b" data-refresh-url="/_alive" data-session-id="4527e0737c078b93a22facea750ddb8dc3553c087e5f8326234fcca63098f93a">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
@@ -98,7 +97,6 @@
   <meta http-equiv="x-pjax-css-version" content="3be400e43aaca0d4769ff2ac6045969b71441f2b52716fcad62664163d1912c3" data-turbo-track="reload">
   <meta http-equiv="x-pjax-js-version" content="87943e87842a3e81dde2959461478e7b25a7fb17a9f1164e0eae0f0c0325ddc8" data-turbo-track="reload">
 
-
   <meta name="go-import" content="github.com/bermarte/Basic-layout git https://github.com/bermarte/Basic-layout.git">
 
   <meta name="octolytics-dimension-user_id" content="979362" /><meta name="octolytics-dimension-user_login" content="bermarte" /><meta name="octolytics-dimension-repository_id" content="479085454" /><meta name="octolytics-dimension-repository_nwo" content="bermarte/Basic-layout" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="479085454" /><meta name="octolytics-dimension-repository_network_root_nwo" content="bermarte/Basic-layout" />
@@ -124,14 +122,12 @@
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
 
-
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
 
-</span>      
-
+</span>
 
         <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-jM3L1fEUZTGVLuv7zeThB48PVXexqt5vwSA2cWay9ac2FYr3++NfnWQg3VnD1rldn8NZpo4lb105yJw4HqLxGg==" src="https://github.githubassets.com/assets/6319-8ccdcbd5f114.js"></script>
 
@@ -167,7 +163,6 @@ to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
 
-
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
@@ -198,9 +193,7 @@ to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 
           <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
 
-
 <ul class="d-none js-jump-to-suggestions-template-container">
-
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
@@ -248,7 +241,6 @@ to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
@@ -497,7 +489,6 @@ to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
-
 
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/danielhalasz/feature_preview/indicator_check">
 
@@ -1442,7 +1433,6 @@ data-default-scope-id="R_kgDOHI5Djg" data-default-scope-type="Repository"
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container >
 
-
   <div id="repository-container-header" class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-pjax-replace>
 
       <div class="d-flex mb-3 px-3 px-md-4 px-lg-5">
@@ -2078,7 +2068,6 @@ template</span>
     
 <div>
 
-
 <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/bermarte/Basic-layout/blob/4f2fceb18976de14178645dad83888e0c25334be/planning/development-strategy.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2311,7 +2300,6 @@ template</span>
     <readme-toc>
 
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
-
 
   <div
     class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
