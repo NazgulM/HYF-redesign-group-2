@@ -10,11 +10,11 @@
 
 ## Communication Schedule
 
-| Day |  How   | The topic of discussion                    |
-| --- | :----: | ------------------------------------------ |
-|     | G-meet | About planning and setup Project schedule. |
-|     | G-meet | Update on design and CSS and HTML tasks.   |
-|     | G-meet | Final update an redaction of retrospective |
+| Day          |  How   | The topic of discussion                           |
+| ------------ | :----: | ------------------------------------------------- |
+| Monday 11    | G-meet | About planning and setup Project schedule.        |
+| Wednesday 13 | G-meet | Update on Planning and visualize the website idea |
+| Friday 15    | G-meet | Update on HTML and CSS assigned to each member    |
 
 ## Communication Channels
 
@@ -28,23 +28,22 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ---
 
-## Availability
-
 ### Availability for calling/messaging
 
-| Day       |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |
-| --------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| _Carsiti_ | 1pm - 12pm | 1pm - 4pm  | 1pm - 11pm | 1pm - 11pm | 1pm - 4pm  | 1pm - 11pm |
-| _Ha_      | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm |
-| _Ricardo_ | 7pm - 2am  | 7pm - 11pm | 7pm - 2am  | 1pm - 6pm  | 7pm - 11pm | 7pm - 11pm |
-| _Swapna_  | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm | 7pm - 11pm |
+| Day       |   Monday   |  Tuesday   |        Wednesday        |        Thursday         |         Friday          | Saturday |
+| --------- | :--------: | :--------: | :---------------------: | :---------------------: | :---------------------: | :------: |
+| _Carsiti_ | 1pm - 12pm | 9am - 1pm  |       10pm - 1am        |        9am - 1am        |        1pm - 4pm        |   tbd    |
+| _Ha_      | 7pm - 11pm | 9am - 11am |        6pm - 1am        |        9am - 1am        |        4pm - 4pm        |   tbd    |
+| _Ricardo_ | 7pm - 2am  | 7pm - 2am  |        7pm - 2am        |        6pm - 2am        |       7pm - 11pm        |   tbd    |
+| _Swapna_  | 9am - 11pm | 10am - 2pm | 10am - 2pm / 7pm - 10pm | 10am - 2pm / 6pm - 10pm | 10am - 2pm / 7pm - 10pm |   tbd    |
+| Madhu     |            |            |                         |                         |                         |
 
 ### How many hours everyone has per day
 
-- Carsiti: _10h_;
-- Ha: _05h_
-- Ricardo: _08h_
-- Swapna: _05h_
+- Carsiti: _06h-avg_;
+- Ha: _07h-avg_
+- Ricardo: _08h-avg_
+- Swapna: _07h-avg_
 
 ## Asking for Help
 
