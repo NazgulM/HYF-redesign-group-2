@@ -33,7 +33,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day       |   Monday   |  Tuesday   |        Wednesday        |        Thursday         |         Friday          | Saturday |
 | --------- | :--------: | :--------: | :---------------------: | :---------------------: | :---------------------: | :------: |
 | _Carsiti_ | 1pm - 12pm | 9am - 1pm  |       10pm - 1am        |        9am - 1am        |        1pm - 4pm        |   tbd    |
-| _Cris_ | 1pm - 6pm | 1pm - 6pm  |       1pm - 6pm        |        1pm - 6pm        |        1pm - 6pm         |   Off    |
+| _Cris_    | 1pm - 6pm  | 1pm - 6pm  |        1pm - 6pm        |        1pm - 6pm        |        1pm - 6pm        |   Off    |
 | _Ha_      | 7pm - 11pm | 9am - 11am |        6pm - 1am        |        9am - 1am        |        4pm - 4pm        |   tbd    |
 | _Ricardo_ | 7pm - 2am  | 7pm - 2am  |        7pm - 2am        |        6pm - 2am        |       7pm - 11pm        |   tbd    |
 | _Swapna_  | 9am - 11pm | 10am - 2pm | 10am - 2pm / 7pm - 10pm | 10am - 2pm / 6pm - 10pm | 10am - 2pm / 7pm - 10pm |   tbd    |
