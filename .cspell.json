@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["Cris", "Socio"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
