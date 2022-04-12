@@ -22,8 +22,8 @@ A website to anyone who wants to know and learn about coding
 
 ## General info
 
-A rebuild website of Hack Your Future by using CSS and HTMl.
-Recreate the website with our own code, and modify some stuff as a preference.
+A rebuild website of Hack Your Future by using CSS and HTMl. Recreate the
+website with our own code, and modify some stuff as a preference.
 
 ## Screenshots
 
