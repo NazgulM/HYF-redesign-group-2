@@ -4,16 +4,16 @@
 
 ## Student
 
-![student](../assets/anna_-_Student.jpg)
+![student](../assets/anna-student.jpg)
 
 ## Volunteer
 
-![volunteer](../assets/ha_-_Volunteer.jpg)
+![volunteer](../assets/ha-volunteer.jpg)
 
 ## Alumni
 
-![alumni](../assets/eileen_-_Alumni.jpg)
+![alumni](../assets/eileen-alumni.jpg)
 
 ## Sponsor
 
-![alumni](../assets/cody_-_Sponsor.jpg)
+![alumni](../assets/cody-sponsor.jpg)
