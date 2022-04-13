@@ -1,10 +1,10 @@
-# Name of project
+# Hack Your Future Rebuild
 
-> A longer description
+A website to anyone who wants to know and learn about coding
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack Your Future Rebuild](#hack-your-future-rebuild)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -14,7 +14,7 @@
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Contact](#contact)
+  - [Collaboration](#collaboration)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -22,19 +22,19 @@
 
 ## General info
 
-> A short description
+A rebuild website of Hack Your Future by using CSS and HTMl. Recreate the
+website with our own code, and modify some stuff as a preference.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
-- Node 14.16.0
+- HTML
+- CSS
 - VSC code
-- JavaScript
-- ...
-- ...
+- Bootstrap 5
 
 ## Setup
 
@@ -49,7 +49,7 @@ console.log("Hello World");
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready and To do for future development
 
 -
 -
@@ -66,11 +66,16 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by Hack Your Future
 
-## Contact
+## Collaboration
 
-By [Name]
+- @Carsiti
+- @cristobal-lopez
+- @hadoan149
+- @MadhuMNG
+- @TheRick88
+- @SWAPNACHEMBOTH
 
 ## Instructions for use
 
