@@ -10,11 +10,13 @@
 
 ## Communication Schedule
 
-| Day          |  How   | The topic of discussion                           |
-| ------------ | :----: | ------------------------------------------------- |
-| Monday 11    | G-meet | About planning and setup Project schedule.        |
-| Wednesday 13 | G-meet | Update on Planning and visualize the website idea |
-| Friday 15    | G-meet | Update on HTML and CSS assigned to each member    |
+| Day          |  How   | Time | The topic of discussion                           |
+| ------------ | :----: | ---- | ------------------------------------------------- |
+| Monday 11    | G-meet | 7pm  | About planning and setup Project schedule.        |
+| Wednesday 13 | G-meet | 7pm  | Update on Planning and visualize the website idea |
+| Friday 15    | G-meet | 7pm  | Update on HTML and CSS assigned to each member    |
+| Monday 18    | G-meet | 7pm  | Update on HTML and CSS assigned to each member    |
+| Wednesday 20 | G-meet | 7pm  | Retrospective and final comments                  |
 
 ## Communication Channels
 

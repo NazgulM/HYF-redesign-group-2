@@ -1,1 +1,61 @@
 @import url("./something.css");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.card {
+  animation: slideInFormLeft 1s ease-in;
+  transition: transform 0.2s ease-in;
+}
+
+.card:hover {
+  transform: translateY(-25px);
+}
+
+.card-link {
+  text-decoration: none;
+  color: rgb(45, 48, 55);
+}
+
+/* ---------- Animation ----------------  */
+
+@keyframes slideInFormLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFormRight {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFormTop {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFormBottom {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
