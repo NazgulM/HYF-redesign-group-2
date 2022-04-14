@@ -1,6 +1,14 @@
 {
   "language": "en",
-  "words": ["Cris", "Socio"],
+  "words": [
+    "Cris",
+    "Livechat",
+    "organisation",
+    "organise",
+    "Socio",
+    "upskilling",
+    "userpersona"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
