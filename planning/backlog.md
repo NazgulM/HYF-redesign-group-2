@@ -5,7 +5,7 @@
 > these are necessary for basic usability
 
 - **Home Page**
-  
+
 ### As a user
 
 - I want to see a logo so that I can identify the website easily and navigate to
@@ -15,9 +15,9 @@
 
 - I want to easily navigate the site
 
-  - [ ] _There is a navigation bar with links to other pages of the site (Student,
-  Alumni, Volunteer, and Sponsor) in the
-        right side of the header._
+  - [ ] _There is a navigation bar with links to other pages of the site
+        (Student, Alumni, Volunteer, and Sponsor) in the right side of the
+        header._
 
 - I would like to know the impact of the program from HYF
 
@@ -49,13 +49,13 @@
 
 ### As a volunteer
 
-- I need to connect to community and make it a better place, all relevant information
-   should be available at the website
+- I need to connect to community and make it a better place, all relevant
+  information should be available at the website
 
   - [ ] _there is a content that explains main work of HYF_
 
-- I would like to know more information about the organization and need someone explain
-   more details
+- I would like to know more information about the organization and need someone
+  explain more details
 
   - [ ] _there is a section in the form above the footer where users can ask for
         more information about HYF._
@@ -70,7 +70,7 @@
 
 ### As a Alumni
 
-- I want to serve as shining  examples to the other people
+- I want to serve as shining examples to the other people
 - The website should have some information related to this.
 
   - [ ] _there is a section directly describe the about the alumni_
@@ -93,13 +93,14 @@
 - I need to have detail information of program and the value of organization.
 
   - [ ] _there is a content on the left side of the website with image on the
-   right side_
+        right side_
 
-- I would like to know more information about the organization/HYF, how and where
-  I can contribute or submit my donation.
+- I would like to know more information about the organization/HYF, how and
+  where I can contribute or submit my donation.
 
   - [ ] _there is a section in the form above the footer where users can ask for
-        more information about HYF and the tab that link to the HYF paypal account._
+        more information about HYF and the tab that link to the HYF paypal
+        account._
 
 - I would like to know the impact of the program from HYF
 
@@ -120,4 +121,3 @@
   - [ ] _there are some playlist to play ._
 - Transitions.
   - [ ] _......._
-  
