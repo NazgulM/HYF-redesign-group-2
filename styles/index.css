@@ -19,6 +19,10 @@
   color: rgb(45, 48, 55);
 }
 
+.container {
+  padding-bottom: 50px;
+}
+
 /* ---------- Animation ----------------  */
 
 @keyframes slideInFormLeft {

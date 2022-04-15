@@ -25,7 +25,7 @@ Some boundaries around our project.
 - Inspect function of the browser
 - Bootstrap
 
-### Avaibility
+### Availability
 
 - 5 hours per day /person
 - Communication via Discord, Github and Zoom
