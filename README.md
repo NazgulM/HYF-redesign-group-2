@@ -70,12 +70,12 @@ Project by Hack Your Future
 
 ## Collaboration
 
-- @Carsiti
-- @cristobal-lopez
-- @hadoan149
-- @MadhuMNG
-- @TheRick88
-- @SWAPNACHEMBOTH
+- [Carsiti](https://github.com/Carsiti)
+- [Cristobal_lopez](https://github.com/cristobal-lopez)
+- [Ha](https://github.com/hadoan149)
+- [Madhu](https://github.com/MadhuMNG)
+- [Ricardo](https://github.com/TheRick88)
+- [Swapna](https://github.com/SWAPNACHEMBOTH)
 
 ## Instructions for use
 
