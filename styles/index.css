@@ -19,6 +19,15 @@
   color: rgb(45, 48, 55);
 }
 
+#hero {
+  width: 100%;
+  height: 40vh;
+  background: url("../assets/team.jpg");
+  background-size: cover;
+  margin-bottom: -150px;
+  background-position: center;
+}
+
 /* ---------- Animation ----------------  */
 
 @keyframes slideInFormLeft {
@@ -61,56 +70,17 @@
   }
 }
 
-/** Contact form **/
+/*** increasing the size of the text box ***/
 
-/** Setting the general parameters for the main container **/
-
-.contact-us-form {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  width: 35%;
-  height: auto;
-  background-color: rgb(74, 80, 187);
-  border-radius: 20px;
-  border-color: yellow;
-  color: white;
+.form-box {
+  height: 100px;
+  width: 100%;
 }
 
-/** Applying some styling to the title **/
-.contact-us-title {
-  display: flex;
-  justify-content: center;
-  height: 60px;
-  text-transform: uppercase;
-  font-size: 25px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  padding-top: 10px;
-}
+/** changing the font size **/
 
-.contact-us-text {
-  margin-top: 20px;
-}
-
-.contact-us-text h4 {
-  font-size: 25px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  padding-left: 10px;
-  padding-right: 15px;
-}
-
-/** styling the Bootstrap form **/
+.contact-us-text,
+.contact-us-title,
 .mb-3 {
-  width: 90%;
-  padding-left: 10px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 25px;
-}
-
-/** Styling the button **/
-.button button {
-  font-size: 25px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  margin: auto;
 }
