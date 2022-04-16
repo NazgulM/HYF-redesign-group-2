@@ -21,7 +21,8 @@
     "Cantersteen",
     "upskilling",
     "userpersona",
-    "Wireframe"
+    "Wireframe",
+    "hovertext"
   ],
   "ignorePaths": [
     "node_modules/**",

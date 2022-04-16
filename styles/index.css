@@ -31,6 +31,34 @@ h1 {
   align-items: center;
 }
 
+.hovertext {
+  position: relative;
+  border-bottom: 1px black;
+}
+
+.hovertext::before {
+  content: attr(data-hover);
+  visibility: hidden;
+  opacity: 0;
+  width: 80px;
+  background-color: purple;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  transition: opacity 1s ease-in-out;
+  font-size: 23px;
+  position: absolute;
+  z-index: 1;
+  right: 3%;
+  top: 10%;
+}
+
+.hovertext:hover::before {
+  opacity: 1;
+  visibility: visible;
+}
+
 /* ---------- Animation ----------------  */
 
 @keyframes slideInFormLeft {
