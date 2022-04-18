@@ -5,6 +5,19 @@
   padding: 0;
 }
 
+h1 {
+  width: fit-content;
+  height: 30vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  background-image: url("../assets/team.jpg");
+  background-size: cover;
+  margin-bottom: -150px;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   animation: slideInFormRight 1s ease-in;
   transition: transform 0.2s ease-in;
@@ -17,18 +30,6 @@
 .card-link {
   text-decoration: none;
   color: rgb(45, 48, 55);
-}
-
-h1 {
-  width: 100%;
-  height: 30vh;
-  background: url("../assets/team.jpg");
-  background-size: cover;
-  margin-bottom: -150px;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .hovertext {
@@ -51,13 +52,19 @@ h1 {
   position: absolute;
   z-index: 1;
   right: 3%;
-  top: 10%;
+  top: 50%;
 }
 
 .hovertext:hover::before {
   opacity: 1;
   visibility: visible;
 }
+
+.text-shadow {
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.7);
+}
+
+/* ---------- navbar fixed ------------------- */
 
 /* ---------- Animation ----------------  */
 
@@ -114,6 +121,36 @@ h1 {
 .contact-us-title,
 .mb-3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.form {
+  height: 630px;
+  width: 100%;
+  margin: 10px black solid;
+}
+
+/** contact us map **/
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 500px;
+  width: 600px;
+  padding-left: 100px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 460px;
+  width: 600px;
+}
+
+.location-map-text {
+  width: 600px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 /** FOOTER **/
