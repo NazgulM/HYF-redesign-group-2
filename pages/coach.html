@@ -20,102 +20,105 @@
   </head>
 
   <body>
-    <div
-      class="
-        container-lg
-        bg-primary
-        col-lg-4
-        mb-4
-        ms-5
-        pb-3
-        mt-4
-        pt-4
-        text-left
-        float-lg-start
-        rounded
-        text-light
-      "
-    >
-      <h4
+    <div class="form bg-primary">
+      <div
         class="
-          contact-us-title
-          d-flex
-          justify-content-center
-          text-uppercase
-          p-2
+          container-lg
+          bg-light
+          col-lg-4
+          mb-4
+          ms-5
+          pb-3
+          mt-4
+          pt-4
+          text-left
+          float-lg-start
+          rounded
+          text-dark
         "
       >
-        Contact us
-      </h4>
-      <h5 class="contact-us-text pb-2">
-        We’re always happy to welcome people like you to our HYF community. Drop
-        us a line and become part of it!
-      </h5>
+        <h4
+          class="
+            contact-us-title
+            d-flex
+            justify-content-center
+            text-uppercase
+            p-2
+          "
+        >
+          Contact us
+        </h4>
+        <h5 class="contact-us-text pb-2">
+          We’re always happy to welcome people like you to our HYF community.
+          Drop us a line and become part of it!
+        </h5>
 
-      <form>
-        <div class="mb-3 fs-5">
-          <i class="bi bi-person-circle"></i>
-          <label for="exampleInputName" class="form-label"
-            >Your full name</label
-          >
-          <input
-            type="email"
-            class="form-control border border-info border-3"
-            id="exampleInputName"
-            aria-describedby="YourName"
-          />
-        </div>
+        <form>
+          <div class="mb-3 fs-5">
+            <i class="bi bi-person-circle"></i>
+            <label for="exampleInputName" class="form-label"
+              >Your full name</label
+            >
+            <input
+              type="email"
+              class="form-control border border-info border-3"
+              id="exampleInputName"
+              aria-describedby="YourName"
+            />
+          </div>
 
-        <div class="mb-3 fs-5">
-          <i class="bi bi-envelope"></i>
-          <label for="exampleInputEmailAddress" class="form-label"
-            >Email address</label
-          >
-          <input
-            type="text"
-            class="form-control border border-success border-3"
-            id="exampleInputEmailAddress"
-          />
-        </div>
+          <div class="mb-3 fs-5">
+            <i class="bi bi-envelope"></i>
+            <label for="exampleInputEmailAddress" class="form-label"
+              >Email address</label
+            >
+            <input
+              type="text"
+              class="form-control border border-success border-3"
+              id="exampleInputEmailAddress"
+            />
+          </div>
 
-        <div class="mb-3 fs-5">
-          <i class="bi bi-pencil"></i>
-          <label for="exampleInputMessage" class="form-label"
-            >Your message</label
-          >
-          <input
-            type="text"
-            class="form-box border border-warning border-3 rounded"
-            id="exampleInputMessage"
-          />
-        </div>
-        <div class="d-flex justify-content-center">
-          <button
-            type="submit"
-            class="btn btn-success border border-1 fs-5 text-light"
-          >
-            Submit
-          </button>
-        </div>
-      </form>
-    </div>
+          <div class="mb-3 fs-5">
+            <i class="bi bi-pencil"></i>
+            <label for="exampleInputMessage" class="form-label"
+              >Your message</label
+            >
+            <input
+              type="text"
+              class="form-box border border-warning border-3 rounded"
+              id="exampleInputMessage"
+            />
+          </div>
+          <div class="d-flex justify-content-center">
+            <button
+              type="submit"
+              class="btn btn-success border border-1 fs-5 text-light"
+            >
+              Submit
+            </button>
+          </div>
+        </form>
+      </div>
 
-    <div class="map d-flex float-lg-start ms-lg-5 mt-lg-5">
-      <div class="mapouter">
-        <div class="gmap_canvas">
-          <iframe
-            title="map"
-            width="600"
-            height="500"
-            id="gmap_canvas"
-            src="https://maps.google.com/maps?q=epitech%20brussels&t=&z=13&ie=UTF8&iwloc=&output=embed"
-          >
-          </iframe
-          ><a href="https://www.whatismyip-address.com/divi-discount/"
-            >divi discount</a
-          >
-          <br />
-          <a href="https://www.embedgooglemap.net">embed map in gmail</a>
+      <div class="map d-flex float-lg-start ms-lg-5 mt-lg-5">
+        <div class="mapouter">
+          <p class="location-map-text">Where are we located?</p>
+          <div class="gmap_canvas">
+            <iframe
+              title="map"
+              width="600"
+              height="500"
+              id="gmap_canvas"
+              src="https://maps.google.com/maps?q=epitech%20brussels&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            >
+            </iframe
+            ><a href="https://www.whatismyip-address.com/divi-discount/"
+              >divi discount</a
+            >
+            <br />
+            <a href="https://www.embedgooglemap.net">embed map in gmail</a>
+          </div>
         </div>
       </div>
     </div>
