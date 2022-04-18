@@ -60,6 +60,12 @@ h1 {
   visibility: visible;
 }
 
+.text-shadow {
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.7);
+}
+
+/* ---------- navbar fixed ------------------- */
+
 /* ---------- Animation ----------------  */
 
 @keyframes slideInFormLeft {
