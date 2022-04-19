@@ -28,7 +28,8 @@
     "upskilling",
     "userpersona",
     "Wireframe",
-    "hovertext"
+    "hovertext",
+    "Royale"
   ],
   "ignorePaths": [
     "node_modules/**",
