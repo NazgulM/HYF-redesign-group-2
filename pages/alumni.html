@@ -18,6 +18,7 @@
     <link rel="icon" href="./assets/logohyf.svg" />
     <title>HYF rebuild Group 2</title>
   </head>
+
   <body>
     <!--- NAVBAR --->
     <section id="instructors" class="bg-white">
@@ -156,90 +157,46 @@
       </div>
     </section>
 
-    <div class="form bg-primary">
-      <div
-        class="
-          container-lg
-          bg-light
-          col-lg-4
-          mb-4
-          ms-5
-          pb-3
-          mt-4
-          pt-4
-          text-left
-          float-lg-start
-          rounded
-          text-dark
-        "
-      >
-        <h4
-          class="
-            contact-us-title
-            d-flex
-            justify-content-center
-            text-uppercase
-            p-2
-          "
-        >
-          Contact us
-        </h4>
-        <h5 class="contact-us-text pb-2">
-          We’re always happy to welcome people like you to our HYF community.
-          Drop us a line and become part of it!
-        </h5>
-
+    <!-- Contact us part -->
+    <div class="contact-us-section">
+      <div class="form">
         <form>
-          <div class="mb-3 fs-5">
+          <h2>Contact us</h2>
+          <h3>
+            We’re always happy to welcome people like you to our HYF community.
+            Drop us a line and become part of it!
+          </h3>
+          <div class="form-name">
             <i class="bi bi-person-circle"></i>
-            <label for="exampleInputName" class="form-label"
-              >Your full name</label
-            >
-            <input
-              type="email"
-              class="form-control border border-info border-3"
-              id="exampleInputName"
-              aria-describedby="YourName"
-            />
+            <label for="name-box">Full name</label>
+            <br />
+            <input type="text" class="name-box" id="name" />
           </div>
 
-          <div class="mb-3 fs-5">
+          <div class="form-email-address">
             <i class="bi bi-envelope"></i>
-            <label for="exampleInputEmailAddress" class="form-label"
-              >Email address</label
-            >
-            <input
-              type="text"
-              class="form-control border border-success border-3"
-              id="exampleInputEmailAddress"
-            />
+            <label for="email-box">Email address</label>
+            <br />
+            <input type="email" class="email-box" id="email" />
           </div>
 
-          <div class="mb-3 fs-5">
+          <div class="form-message">
             <i class="bi bi-pencil"></i>
-            <label for="exampleInputMessage" class="form-label"
-              >Your message</label
-            >
-            <input
-              type="text"
-              class="form-box border border-warning border-3 rounded"
-              id="exampleInputMessage"
-            />
+            <label for="message-box">Message</label>
+            <br />
+            <input type="text" class="message-box" id="message" />
           </div>
-          <div class="d-flex justify-content-center">
-            <button
-              type="submit"
-              class="btn btn-success border border-1 fs-5 text-light"
-            >
-              Submit
-            </button>
+
+          <div class="message-button">
+            <button type="submit">Send message</button>
           </div>
         </form>
       </div>
 
-      <div class="map d-flex float-lg-start ms-lg-5 mt-lg-5">
+      <!--- Google map for the location -->
+      <div class="map">
         <div class="mapouter">
-          <p class="location-map-text">Where are we located?</p>
+          <p class="location-map-text">Our location</p>
           <div class="gmap_canvas">
             <iframe
               title="map"

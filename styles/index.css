@@ -116,47 +116,131 @@ button:hover {
   }
 }
 
-/*** increasing the size of the text box ***/
+/** contact us section **/
 
-.form-box {
-  height: 100px;
-  width: 100%;
-}
+/** styling the map **/
 
-/** changing the font size **/
-
-.contact-us-text,
-.contact-us-title,
-.mb-3 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-
-.form {
-  height: 630px;
-  width: 100%;
-  margin: 10px black solid;
-}
-
-/** contact us map **/
 .mapouter {
   position: relative;
   text-align: right;
-  height: 500px;
+  height: 498px;
   width: 600px;
-  padding-left: 100px;
+  margin-left: 30px;
+  padding-top: 10px;
+  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
+  border-radius: 10px;
 }
 
 .gmap_canvas {
   overflow: hidden;
-  background: none !important;
-  height: 460px;
-  width: 600px;
+  height: 410px;
+  width: 550px;
+  margin-left: 30px;
+}
+
+/*** styling the contact form ***/
+
+.contact-us-section {
+  /*** main container ***/
+  height: 550px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: center;
+}
+
+.form {
+  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
+  background-size: contain;
+  margin-top: 18px;
+  margin-right: 25px;
+  height: 510px;
+  width: 400px;
+  border-radius: 10px;
+}
+
+.form h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 10px;
+  text-shadow: 2px 2px rgb(14, 13, 13);
+  color: rgb(240, 236, 3);
+}
+
+.form h3 {
+  color: black;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.form-name,
+.form-email-address,
+.form-message {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.name-box {
+  width: 375px;
+  border-radius: 5px;
+  height: 20px;
+  margin-bottom: 8px;
+  border-color: aqua;
+}
+
+.email-box {
+  width: 375px;
+  border-radius: 5px;
+  height: 20px;
+  margin-bottom: 8px;
+  border-color: aqua;
+}
+
+.message-box {
+  height: 160px;
+  width: 375px;
+  border-radius: 10px;
+  border-color: aqua;
+}
+
+.message-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.message-button button {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-top: 10px;
+  background-color: aquamarine;
+  border-color: rgb(6, 143, 24);
+  font-size: 20px;
+  padding: 5px;
+}
+
+.message-button button:hover {
+  background-color: rgb(8, 133, 45);
+  color: black;
+}
+
+.map {
+  margin-top: 20px;
 }
 
 .location-map-text {
-  width: 600px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 25px;
-  text-transform: uppercase;
+  width: 550px;
+  margin-bottom: 10px;
   text-align: center;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  margin-top: 5px;
+  text-shadow: 2px 2px rgb(14, 13, 13);
 }
