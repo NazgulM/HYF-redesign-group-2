@@ -87,9 +87,51 @@
         </div>
       </nav>
     </section>
-    <!-- HEADER WITH BACKGROUND-->
+    <!-- Begin loading animation -->
+    <link
+      href="../assets/css/loaders/loader-pulse.css"
+      rel="stylesheet"
+      type="text/css"
+      media="all"
+    />
+
+    <!--Image-->
+    <div class="float-lg-end pl-0">
+      <img
+        src="https://image.shutterstock.com/image-vector/good-healthy-students-interested-fun-260nw-604678865.jpg"
+        class="rounded float-left"
+        alt="responsive image"
+      />
+    </div>
+
+    <!--Description student-->
+    <div class="container-lg bg-light col-lg-8 mb-5 ms-5 pb-0 mt-6 pt-3">
+      <h1 class="description-student">Become a Student</h1>
+      <p>
+        <strong>You can Start your new learning journey joining HYF</strong>
+      </p>
+      <p>
+        We teach motivated individuals who want to start a career in web
+        development.
+      </p>
+      <ul>
+        <li>Technical background is not mandatory.</li>
+        <li>Our seven-month program begins every two months.</li>
+        <li>Class 39 - Application deadline is April 29 23:59 CET.</li>
+        <li>
+          We will teach you the fundamentals of full-stack web development, with
+          a focus on modern Javascript.
+        </li>
+        <li>
+          Besides the necessary technical skills,you will also learn how to work
+          in projects within a modern tech team.
+        </li>
+      </ul>
+    </div>
+
+    <!--HEADER WITH BACKGROUND-->
     <div class="container">
-      <h1
+      <div
         class="
           header
           display-2
@@ -98,13 +140,9 @@
           mb-5
           text-shadow
         "
-      >
-        <span class="hovertext" data-hover="Apply now"
-          >Welcome to Hack Your Future Belgium</span
-        >
-      </h1>
-      <!-- HEADER-->
+      ></div>
     </div>
+
     <!-- Our Impact-->
 
     <section class="col-md">
@@ -222,7 +260,7 @@
             >
             <input
               type="text"
-              class="form-box border border-warning border-3 rounded"
+              class="form-control border border-success border-3"
               id="exampleInputMessage"
             />
           </div>
@@ -239,7 +277,7 @@
 
       <div class="map d-flex float-lg-start ms-lg-5 mt-lg-5">
         <div class="mapouter">
-          <p class="location-map-text">Where are we located?</p>
+          <div class="location-map-text">Where are we located?</div>
           <div class="gmap_canvas">
             <iframe
               title="map"
