@@ -5,4 +5,4 @@ website.
 
 ## Wireframe(s)
 
-![Design](Design.png)
+![Design](DesignVersion2.png)
