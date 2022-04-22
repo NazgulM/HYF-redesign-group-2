@@ -118,31 +118,11 @@ button:hover {
 
 /** contact us section **/
 
-/** styling the map **/
-
-.mapouter {
-  position: relative;
-  text-align: right;
-  height: 498px;
-  width: 600px;
-  margin-left: 30px;
-  padding-top: 10px;
-  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
-  border-radius: 10px;
-}
-
-.gmap_canvas {
-  overflow: hidden;
-  height: 410px;
-  width: 550px;
-  margin-left: 30px;
-}
-
 /*** styling the contact form ***/
 
 .contact-us-section {
   /*** main container ***/
-  height: 550px;
+  height: 700px;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -155,7 +135,7 @@ button:hover {
   background-size: contain;
   margin-top: 18px;
   margin-right: 25px;
-  height: 510px;
+  height: 650px;
   width: 400px;
   border-radius: 10px;
 }
@@ -217,20 +197,23 @@ button:hover {
 }
 
 .message-button button {
+  width: 150px;
+  height: 50px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-top: 10px;
-  background-color: aquamarine;
+  background-color: rgb(56, 16, 235);
   border-color: rgb(6, 143, 24);
   font-size: 20px;
   padding: 5px;
 }
 
 .message-button button:hover {
-  background-color: rgb(8, 133, 45);
-  color: black;
+  background-color: rgb(231, 131, 16);
+  color: rgb(248, 240, 240);
 }
 
 .map {
+  display: flex;
   margin-top: 20px;
 }
 
@@ -240,7 +223,27 @@ button:hover {
   text-align: center;
   font-size: 40px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: black;
+  color: rgb(240, 236, 3);
   margin-top: 5px;
   text-shadow: 2px 2px rgb(14, 13, 13);
+}
+
+/** styling the map **/
+
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 650px;
+  width: 600px;
+  margin-left: 30px;
+  padding-top: 1px;
+  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
+  border-radius: 10px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  height: 590px;
+  width: 550px;
+  margin-left: 30px;
 }
