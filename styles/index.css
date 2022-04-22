@@ -33,7 +33,10 @@ h1 {
   text-decoration: none;
   color: rgb(45, 48, 55);
 }
-
+.size {
+  width:  150px;
+  height: 150px;
+}
 /* newsletter */
 
 .row {
