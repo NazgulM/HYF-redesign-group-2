@@ -30,7 +30,9 @@
     "Todos",
     "upskilling",
     "userpersona",
-    "Wireframe"
+    "Wireframe",
+    "tada",
+    "finalises"
   ],
   "ignorePaths": [
     "node_modules/**",
