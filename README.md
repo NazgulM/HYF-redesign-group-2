@@ -67,12 +67,12 @@ Project by [Hack Your Future Belgium](https://hackyourfuture.be/)
 - [Madhu](https://github.com/MadhuMNG)
 - [Ricardo](https://github.com/TheRick88)
 - [Swapna](https://github.com/SWAPNACHEMBOTH)
-  
+
 ## Coaches
 
 - [Bermarte](https://github.com/bermarte)
 - [Tamer](https://github.com/talmurshidi)
-  
+
 ## Instructions for use
 
 <details>
