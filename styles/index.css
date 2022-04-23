@@ -8,9 +8,11 @@
 /* header */
 
 h1 {
-  width: fit-content;
-  height: 30vh;
-  background-image: linear-gradient(rgba(45, 45, 45, 0.7), rgba(0, 0, 0, 0.7)),
+  height: 40vh;
+  background-image: linear-gradient(
+      rgba(65, 64, 64, 0.7),
+      rgba(65, 64, 64, 0.7)
+    ),
     url("../assets/team.jpg");
   background-size: cover;
   margin-bottom: -150px;
@@ -211,7 +213,7 @@ button:hover {
   font-size: 20px;
   padding: 5px;
   border-radius: 10px;
-  color:rgb(14, 13, 13)
+  color: rgb(14, 13, 13);
 }
 
 .message-button button:hover {
