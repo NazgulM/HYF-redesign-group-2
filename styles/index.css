@@ -36,6 +36,11 @@ h1 {
   color: rgb(45, 48, 55);
 }
 
+.size {
+  width: 150px;
+  height: 150px;
+}
+
 /* newsletter */
 
 .row {
@@ -135,8 +140,7 @@ button:hover {
 }
 
 .form {
-  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
-  background-size: contain;
+  background-color: rgb(74, 80, 187);
   margin-top: 18px;
   margin-right: 25px;
   height: 650px;
@@ -149,12 +153,10 @@ button:hover {
   font-size: 40px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-top: 10px;
-  text-shadow: 2px 2px rgb(14, 13, 13);
-  color: rgb(240, 236, 3);
 }
 
 .form h3 {
-  color: black;
+  color: rgb(248, 237, 237);
   margin-top: 10px;
   margin-left: 10px;
   margin-right: 10px;
@@ -167,6 +169,8 @@ button:hover {
   margin-left: 10px;
   font-size: 20px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  box-shadow: black;
 }
 
 .name-box {
@@ -197,23 +201,24 @@ button:hover {
   align-items: center;
   justify-content: center;
   text-align: center;
-  border-radius: 10px;
 }
 
 .message-button button {
-  width: 150px;
+  width: 130px;
   height: 50px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   margin-top: 10px;
-  background-color: rgb(56, 16, 235);
-  border-color: rgb(6, 143, 24);
+  background-color: rgb(244, 242, 250);
+  border-color: rgb(3, 3, 0);
   font-size: 20px;
   padding: 5px;
+  border-radius: 10px;
+  color: rgb(14, 13, 13);
 }
 
 .message-button button:hover {
-  background-color: rgb(231, 131, 16);
-  color: rgb(248, 240, 240);
+  background-color: rgb(74, 80, 187);
+  color: white;
 }
 
 .map {
@@ -227,9 +232,7 @@ button:hover {
   text-align: center;
   font-size: 40px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  color: rgb(240, 236, 3);
   margin-top: 5px;
-  text-shadow: 2px 2px rgb(14, 13, 13);
 }
 
 /** styling the map **/
@@ -241,7 +244,7 @@ button:hover {
   width: 600px;
   margin-left: 30px;
   padding-top: 1px;
-  background-image: url("https://w0.peakpx.com/wallpaper/832/423/HD-wallpaper-blue-and-aqua-gradient-rainbow-colourful-green-iphone-ipad-nice-pink-red-samsung-tablet.jpg");
+  background-color: rgb(74, 80, 187);
   border-radius: 10px;
 }
 

@@ -15,8 +15,8 @@
   "author": "HYF Belgium",
   "license": "MIT",
   "devDependencies": {
-    "@ls-lint/ls-lint": "^1.10.0",
-    "accessibility-checker": "^3.1.10",
+    "@ls-lint/ls-lint": "^1.11.0",
+    "accessibility-checker": "^3.1.28",
     "cspell": "^5.6.6",
     "html-validate": "^6.7.1",
     "markdownlint-cli": "^0.31.1",
