@@ -34,6 +34,11 @@ h1 {
   color: rgb(45, 48, 55);
 }
 
+.size {
+  width: 150px;
+  height: 150px;
+}
+
 /* newsletter */
 
 .row {
