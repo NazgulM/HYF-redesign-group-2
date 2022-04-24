@@ -15,6 +15,7 @@ A website to anyone who wants to know and learn about coding
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Collaboration](#collaboration)
+  - [Coaches](#coaches)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -27,14 +28,14 @@ website with our own code, and modify some stuff as a preference.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.png)
+![Example screenshot](./assets/homepage.png)
 
 ## Technologies
 
 - HTML
 - CSS
 - VSC code
-- Bootstrap 5
+- [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Setup
 
@@ -42,23 +43,13 @@ website with our own code, and modify some stuff as a preference.
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
-```
+![Example screenshot](./assets/code-example.png)
 
 ## Features
 
-List of features ready and To do for future development
-
--
--
--
-
-To-do list:
-
--
--
+- Responsive Website
+- CSS Grid
+- Flexbox
 
 ## Status
 
@@ -66,7 +57,7 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by Hack Your Future
+Project by [Hack Your Future Belgium](https://hackyourfuture.be/)
 
 ## Collaboration
 
@@ -76,6 +67,11 @@ Project by Hack Your Future
 - [Madhu](https://github.com/MadhuMNG)
 - [Ricardo](https://github.com/TheRick88)
 - [Swapna](https://github.com/SWAPNACHEMBOTH)
+
+## Coaches
+
+- [Bermarte](https://github.com/bermarte)
+- [Tamer](https://github.com/talmurshidi)
 
 ## Instructions for use
 
